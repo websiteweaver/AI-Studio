@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">استوديو-تصوير-المنتجات-بالذكاء-الاصطناعي</string>
+    <string name="title_activity_main">استوديو-تصوير-المنتجات-بالذكاء-الاصطناعي</string>
+    <string name="package_name">com.tool.aistudio</string>
+    <string name="custom_url_scheme">com.tool.aistudio</string>
+</resources>
